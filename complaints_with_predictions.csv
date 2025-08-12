@@ -1,0 +1,501 @@
+﻿complaint_text,category,sentiment,predicted_category,predicted_sentiment
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Negatif,Faturalama,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Negatif,Faturalama,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Negatif,Faturalama,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Negatif,Faturalama,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Negatif,Faturalama,Nötr
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Negatif,Yanlış Bilgi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Negatif,Faturalama,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Negatif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Fatura detaylarında hatalı kalemler var.,Faturalama,Nötr,Faturalama,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Negatif,Erişim Sorunu,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Negatif,Faturalama,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Nötr,Faturalama,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Nötr,Sistem Hatası,Pozitif
+Hesabıma giriş yapamıyorum.,Erişim Sorunu,Negatif,Erişim Sorunu,Negatif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Nötr,Destek Talebi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Pozitif,Destek Talebi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Pozitif,Faturalama,Pozitif
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Sunucu hatası nedeniyle işlemimi tamamlayamadım.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+Web sitesine erişim çok yavaş.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Fatura detaylarında hatalı kalemler var.,Faturalama,Pozitif,Faturalama,Nötr
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Sözleşmede belirtilmeyen ücret yansıtılmış.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Nötr
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
+Servis süresi hakkında detay verir misiniz?,Destek Talebi,Negatif,Destek Talebi,Nötr
+Kurulum için randevu talep ediyorum.,Destek Talebi,Negatif,Destek Talebi,Negatif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Kurulum için randevu talep ediyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Nötr,Erişim Sorunu,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+VPN olmadan sisteme bağlanamıyorum.,Erişim Sorunu,Pozitif,Erişim Sorunu,Pozitif
+Faturam beklediğimden yüksek geldi.,Faturalama,Nötr,Faturalama,Pozitif
+Destek ekibi yanlış yönlendirme yaptı.,Yanlış Bilgi,Pozitif,Yanlış Bilgi,Pozitif
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Pozitif,Destek Talebi,Negatif
+"İki kez ödeme alınmış, düzeltilmesini istiyorum.",Faturalama,Pozitif,Faturalama,Pozitif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Kampanya bilgileri eksik verilmiş.,Yanlış Bilgi,Nötr,Yanlış Bilgi,Nötr
+Yeni paket hakkında bilgi almak istiyorum.,Destek Talebi,Nötr,Destek Talebi,Negatif
+Sistem güncellemesi sonrası giriş yapamıyorum.,Sistem Hatası,Pozitif,Sistem Hatası,Pozitif
+Uygulama açılırken sürekli hata veriyor.,Sistem Hatası,Negatif,Sistem Hatası,Pozitif
